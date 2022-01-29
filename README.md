@@ -1,1 +1,2 @@
-# Stock_IBM
+# StockPricePrediction
+This project predict Stock close price
