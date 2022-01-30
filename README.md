@@ -20,3 +20,7 @@ ii) Other ML Techniques (SVM, Linear Regressor)**
 * When the values are entered, oru LSTM-model will be triggered and predict the close price.
 * We created the code for every company stock prices.
 **For example : Instead of IBM_stock prices, we can train the other companies(Google,Tesla,Netflix etc.,) stock price with the help of our code.**
+
+# Documentation:
+
+# Video Explanation:
