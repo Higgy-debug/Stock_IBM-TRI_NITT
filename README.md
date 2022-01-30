@@ -1,5 +1,5 @@
 # StockPricePrediction
-This project predict Stock close price
+Model to predict the 'close' value of the next day given the stocks (IBM-Stocks) of all days until the current day, and developed a front-end UI (Web app) that can help traders invest the right amount of money.
 
 # Technologies Used:
 * Python
