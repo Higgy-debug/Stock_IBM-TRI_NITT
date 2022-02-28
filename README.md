@@ -24,8 +24,3 @@ ii) Other ML Techniques (SVM, Linear Regressor)**
 # Web-Application:
 https://stock-ibm.herokuapp.com/
 
-# Documentation:
-https://drive.google.com/drive/folders/1MSll-kappc6GRzka-hNF-g2RHv4416R3?usp=sharing
-
-# Video Explanation:
-https://drive.google.com/drive/folders/1wbygKg8XMd6DHqGshAtgjg7lLR0LUgn8?usp=sharing
